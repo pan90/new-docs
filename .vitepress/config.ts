@@ -30,17 +30,24 @@ export default defineConfig({
       {
         text: '玩家指令大全',
         link: "/player-commands"
+      },
+
+      {
+        text: '参与编写',
+        link: "/contribute"
       }
+
+
     ],
 
-    // socialLinks: [
-    //   { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    // ],
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/pan90/new-docs' }
+    ],
 
-    // editLink: {
-    //   pattern: 'https://github.com/NapNeko/NapCatDocs/tree/main/docs/:path',
-    //   text: '在 GitHub 上编辑此页面'
-    // },
+    editLink: {
+      pattern: 'https://github.com/pan90/new-docs/tree/main/:path',
+      text: '在 GitHub 上编辑此页面'
+    },
 
     docFooter: {
       prev: '上一页',
