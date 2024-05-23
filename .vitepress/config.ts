@@ -5,8 +5,8 @@ export default defineConfig({
   title: "PaperCard文档",
   description: "纸片PaperCard服务器详细文档",
   lang: 'zh-CN',
-  cleanUrls: true,
-  metaChunk: true,
+  // cleanUrls: true,
+  // metaChunk: true,
   lastUpdated: true,
 
   head: [
