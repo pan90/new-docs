@@ -23,8 +23,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '官网', link: 'https://paper-card.cn' },
-      { text: '帮助目录', link: '/introduction' },
-      { text: '加入社团', link: '/clubs'}
+      { text: '帮助目录', link: '/introduction' }
     ],
 
     sidebar: 
@@ -81,6 +80,7 @@ export default defineConfig({
 
       {
         text: '社团',
+        collapsed: true,
         items: [
             {text: '动漫社', link: "/clubs/DMS"},
             {text: '莱文市', link: "/clubs/LWS"},
@@ -93,6 +93,7 @@ export default defineConfig({
 
       {
         text: '插件',
+        collapsed: true,
         items: [
             {text: '漂流瓶', link: "/plugins/drift-bottle"},
             {text: '酿酒', link: "/plugins/brewing"},
