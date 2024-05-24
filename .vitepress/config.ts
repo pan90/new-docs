@@ -23,7 +23,8 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '官网', link: 'https://paper-card.cn' },
-      { text: '帮助目录', link: '/introduction' }
+      { text: '帮助目录', link: '/introduction' },
+      { text: '加入社团', link: '/clubs'}
     ],
 
     sidebar: 
@@ -61,6 +62,39 @@ export default defineConfig({
       {
         text: '玩家指令大全',
         link: "/player-commands"
+      },
+
+      {
+        text: '封禁、解封与举报',
+        link: '/ban'
+      },
+
+      {
+        text: '可用与不可用模组',
+        link: "/mods"
+      },
+
+      {
+        text: '可能遇到的问题',
+        link: "/problem"
+      },
+
+      {
+        text: '社团',
+        items: [
+            {text: '动漫社',link: "/clubs/DMS"},
+            {text: '莱文市',link: "/clubs/LWS"},
+            {text: '苏维埃',link: "/clubs/SWA"},
+          ]
+      },
+
+      {
+        text: '插件',
+        items: [
+            {text: '漂流瓶',link: ""},
+            {text: '酿酒',link: ""},
+            {text: '盔甲架自定义',link: ""},
+          ]
       },
 
       {
