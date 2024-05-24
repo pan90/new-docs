@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.BYhES31N.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"problem.md","filePath":"problem.md","lastUpdated":null}'),r={name:"problem.md"};function o(s,n,p,c,l,m){return a(),t("div")}const i=e(r,[["render",o]]);export{_ as __pageData,i as default};
