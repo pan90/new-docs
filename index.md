@@ -11,7 +11,7 @@ hero:
       text: 马上加入
       link: https://paper-card.cn/join
     - theme: alt
-      text: 文档介绍
+      text: 指令大全
       link: /player-commands
 
 features:
