@@ -85,6 +85,9 @@ export default defineConfig({
             {text: '动漫社',link: "/clubs/DMS"},
             {text: '莱文市',link: "/clubs/LWS"},
             {text: '苏维埃',link: "/clubs/SWA"},
+            {text: '芋泥蛋糕',link: "/clubs/YNDG"},
+            {text: '璃虹港',link: "/clubs/LHG"},
+            {text: '蘑菇岛',link: "/clubs/MGD"},
           ]
       },
 
