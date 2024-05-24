@@ -26,7 +26,28 @@ export default defineConfig({
       { text: '文档', link: '/player-commands' }
     ],
 
-    sidebar: [
+    sidebar: 
+    [
+      {
+        text: '玩法与介绍',
+        link: "/gameplay-Introduction"
+      },
+
+      {
+        text: '前言',
+        link: "/preface"
+      },
+
+      {
+        text: '玩家筛选',
+        link: "/filter-players.md"
+      },
+      
+      {
+        text: '玩家守则',
+        link: "/player-rules.md"
+      },
+
       {
         text: '玩家指令大全',
         link: "/player-commands"
