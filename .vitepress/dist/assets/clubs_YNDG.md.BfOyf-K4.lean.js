@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.BYhES31N.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"clubs/YNDG.md","filePath":"clubs/YNDG.md","lastUpdated":null}'),s={name:"clubs/YNDG.md"};function c(r,o,n,l,d,p){return a(),t("div")}const m=e(s,[["render",c]]);export{i as __pageData,m as default};
