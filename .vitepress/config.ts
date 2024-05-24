@@ -82,21 +82,21 @@ export default defineConfig({
       {
         text: '社团',
         items: [
-            {text: '动漫社',link: "/clubs/DMS"},
-            {text: '莱文市',link: "/clubs/LWS"},
-            {text: '苏维埃',link: "/clubs/SWA"},
-            {text: '芋泥蛋糕',link: "/clubs/YNDG"},
-            {text: '璃虹港',link: "/clubs/LHG"},
-            {text: '蘑菇岛',link: "/clubs/MGD"},
+            {text: '动漫社', link: "/clubs/DMS"},
+            {text: '莱文市', link: "/clubs/LWS"},
+            {text: '苏维埃', link: "/clubs/SWA"},
+            {text: '芋泥蛋糕', link: "/clubs/YNDG"},
+            {text: '璃虹港', link: "/clubs/LHG"},
+            {text: '蘑菇岛', link: "/clubs/MGD"},
           ]
       },
 
       {
         text: '插件',
         items: [
-            {text: '漂流瓶',link: ""},
-            {text: '酿酒',link: ""},
-            {text: '盔甲架自定义',link: ""},
+            {text: '漂流瓶', link: "/plugins/drift-bottle"},
+            {text: '酿酒', link: "/plugins/brewing"},
+            {text: '盔甲架自定义', link: "/plugins/armor-stand"},
           ]
       },
 
