@@ -23,7 +23,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '官网', link: 'https://paper-card.cn' },
-      { text: '文档', link: '/player-commands' }
+      { text: '帮助目录', link: '/introduction' }
     ],
 
     sidebar: 
@@ -46,6 +46,16 @@ export default defineConfig({
       {
         text: '玩家守则',
         link: "/player-rules"
+      },
+
+      {
+        text: '如何加入到服务器',
+        link: "/join"
+      },
+
+      {
+        text: '如何使用纸片正版登录',
+        link: "/papercardlogin"
       },
 
       {
