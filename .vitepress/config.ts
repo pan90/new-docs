@@ -30,7 +30,7 @@ export default defineConfig({
     [
       {
         text: '玩法与介绍',
-        link: "/gameplay-Introduction"
+        link: "/introduction"
       },
 
       {
@@ -40,12 +40,12 @@ export default defineConfig({
 
       {
         text: '玩家筛选',
-        link: "/filter-players.md"
+        link: "/filter-players"
       },
       
       {
         text: '玩家守则',
-        link: "/player-rules.md"
+        link: "/player-rules"
       },
 
       {
