@@ -20,7 +20,7 @@
 加入服务器之前，请先前往PaperCard官网[申请白名单](https://paper-card.cn/whitelist)
 
 # 4. 绑定QQ
-在第一次进入服务器时可在聊天窗口点击`点击绑定QQ`&nbsp;&nbsp;或输入指令`/qq-bing code`&nbsp;&nbsp;  
+在进入服务器时可在聊天窗口点击`点击绑定QQ`&nbsp;&nbsp;或输入指令`/qq-bing code`&nbsp;&nbsp;  
 ![](/picture/qqbind.png)
 然后将获取到的验证码发送到QQ群
 ![](/picture/qqbind2.png)
