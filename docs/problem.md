@@ -26,6 +26,11 @@
 ![](/picture/skin1.png)
 *推荐皮肤站 [littleskin](https://littleskin.cn/)*
 
+## 换了皮肤(披风)为什么不显示
+可以尝试在游戏内输入指令`/skin updata`来刷新皮肤(披风)。  
+![](/picture/skinupdata.png)
+或通过使用[纸片正版登录](papercardlogin)快速刷新。
+
 ## 游戏内怎么输入不了中文
 请下载[输入法冲突修复](https://www.mcmod.cn/class/3358.html)模组(群内整合包已内置)。
 ![](/picture/srfxf.png)

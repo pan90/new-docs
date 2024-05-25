@@ -84,9 +84,15 @@ export default defineConfig({
         },
 
         {
+          text: '电池指南',
+          link: "/coins"
+        },
+
+        {
           text: '社团',
           collapsed: true,
           items: [
+            { text: '索引', link: "/clubs/"},
             { text: '动漫社', link: "/clubs/DMS" },
             { text: '莱文市', link: "/clubs/LWS" },
             { text: '苏维埃', link: "/clubs/SWA" },
