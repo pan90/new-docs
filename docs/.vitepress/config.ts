@@ -26,95 +26,102 @@ export default defineConfig({
       { text: '帮助目录', link: '/introduction' }
     ],
 
-    sidebar: 
-    [
-      {
-        text: '玩法与介绍',
-        link: "/introduction"
-      },
+    sidebar:
+      [
+        {
+          text: '玩法与介绍',
+          link: "/introduction"
+        },
 
-      {
-        text: '前言',
-        link: "/preface"
-      },
+        {
+          text: '前言',
+          link: "/preface"
+        },
 
-      {
-        text: '玩家筛选',
-        link: "/filter-players"
-      },
-      
-      {
-        text: '玩家守则',
-        link: "/player-rules"
-      },
+        {
+          text: '玩家筛选',
+          link: "/filter-players"
+        },
 
-      {
-        text: '如何加入到服务器',
-        link: "/join"
-      },
+        {
+          text: '玩家守则',
+          link: "/player-rules"
+        },
 
-      {
-        text: '如何使用纸片正版登录',
-        link: "/papercardlogin"
-      },
+        {
+          text: '如何加入到服务器',
+          link: "/join"
+        },
 
-      {
-        text: '玩家指令大全',
-        link: "/player-commands"
-      },
+        {
+          text: '如何使用纸片正版登录',
+          link: "/papercardlogin"
+        },
 
-      {
-        text: '封禁、解封与举报',
-        link: '/ban'
-      },
+        {
+          text: '玩家指令大全',
+          link: "/player-commands"
+        },
 
-      {
-        text: '可用与不可用模组',
-        link: "/mods"
-      },
+        {
+          text: '封禁、解封与举报',
+          link: '/ban'
+        },
 
-      {
-        text: '可能遇到的问题',
-        link: "/problem"
-      },
+        {
+          text: '可用与不可用模组',
+          link: "/mods"
+        },
 
-      {
-        text: '支持与赞助',
-        link: "/zanzhu"
-      },
+        {
+          text: '可能遇到的问题',
+          link: "/problem"
+        },
 
-      {
-        text: '社团',
-        collapsed: true,
-        items: [
-            {text: '动漫社', link: "/clubs/DMS"},
-            {text: '莱文市', link: "/clubs/LWS"},
-            {text: '苏维埃', link: "/clubs/SWA"},
-            {text: '芋泥蛋糕', link: "/clubs/YNDG"},
-            {text: '璃虹港', link: "/clubs/LHG"},
-            {text: '约翰山庄', link: "/clubs/YHSZ"},
-            {text: '蘑菇岛', link: "/clubs/MGD"},
-            {text: '小樱花山', link: "/clubs/XYHS"},
+        {
+          text: '支持与赞助',
+          link: "/zanzhu"
+        },
+
+        {
+          text: '社团',
+          collapsed: true,
+          items: [
+            { text: '动漫社', link: "/clubs/DMS" },
+            { text: '莱文市', link: "/clubs/LWS" },
+            { text: '苏维埃', link: "/clubs/SWA" },
+            { text: '芋泥蛋糕', link: "/clubs/YNDG" },
+            { text: '璃虹港', link: "/clubs/LHG" },
+            { text: '约翰山庄', link: "/clubs/YHSZ" },
+            { text: '蘑菇岛', link: "/clubs/MGD" },
+            { text: '小樱花山', link: "/clubs/XYHS" },
           ]
-      },
+        },
 
-      {
-        text: '插件',
-        collapsed: true,
-        items: [
-            {text: '漂流瓶', link: "/plugins/drift-bottle"},
-            {text: '酿酒', link: "/plugins/brewing"},
-            {text: '盔甲架自定义', link: "/plugins/armor-stand"},
+        {
+          text: '插件',
+          collapsed: true,
+          items: [
+            { text: '索引', link: "/plugins/" },
+            { text: '漂流瓶', link: "/plugins/drift-bottle" },
+            { text: '酿酒', link: "/plugins/brewing" },
+            { text: '盔甲架自定义', link: "/plugins/armor-stand" },
           ]
-      },
+        },
 
-      {
-        text: '参与编写',
-        link: "/contribute"
-      }
+        {
+          text: '更新日志',
+          link: "/logs/"
+        },
 
 
-    ],
+        {
+          text: '参与编写',
+          link: "/contribute"
+        }
+
+
+      ],
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/pan90/new-docs' }
