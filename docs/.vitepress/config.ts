@@ -23,8 +23,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '官网', link: 'https://paper-card.cn' },
-      { text: '帮助目录', link: '/introduction' },
-      { text: '加入社团', link: '/clubs'}
+      { text: '帮助目录', link: '/introduction' }
     ],
 
     sidebar: 
@@ -80,19 +79,28 @@ export default defineConfig({
       },
 
       {
+        text: '支持与赞助',
+        link: "/zanzhu"
+      },
+
+      {
         text: '社团',
+        collapsed: true,
         items: [
             {text: '动漫社', link: "/clubs/DMS"},
             {text: '莱文市', link: "/clubs/LWS"},
             {text: '苏维埃', link: "/clubs/SWA"},
             {text: '芋泥蛋糕', link: "/clubs/YNDG"},
             {text: '璃虹港', link: "/clubs/LHG"},
+            {text: '约翰山庄', link: "/clubs/YHSZ"},
             {text: '蘑菇岛', link: "/clubs/MGD"},
+            {text: '小樱花山', link: "/clubs/XYHS"},
           ]
       },
 
       {
         text: '插件',
+        collapsed: true,
         items: [
             {text: '漂流瓶', link: "/plugins/drift-bottle"},
             {text: '酿酒', link: "/plugins/brewing"},
