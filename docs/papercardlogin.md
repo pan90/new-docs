@@ -17,10 +17,10 @@
 ## 如何更换回微软正版登录
 ### PCL2请按照下图操作
 
-![](/picture/pcllogin1.png)
-![](/picture/pcllogin2.png)
+![](/picture/pcllogin1.webp)
+![](/picture/pcllogin2.webp)
 
 ### HMCL请按照下图操作
 
-![](/picture/hmcllogin1.png)
-![](/picture/hmcllohin2.png)
+![](/picture/hmcllogin1.webp)
+![](/picture/hmcllohin2.webp)

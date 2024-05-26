@@ -18,22 +18,22 @@
 
  - 同时，通过建筑、生电、小游戏等大大小小的有影响力的项目，**莱文市正致力于建设一个富有活力，具有无限想象力的完美社团**。
 
-![四周年新年烟花会](./picture/LWS2.png)
+![四周年新年烟花会](./picture/LWS2.webp)
 
  ## 二、目前成果展示
  - 在过去的两个周目里，莱文市成员们集思广益，创造了许多极具美感的建筑作品和效率爆炸的生电作品。其中许多建筑的都被广泛的应用在宣传视频当中。
 
-![](./picture/LWS3.png)
+![](./picture/LWS3.webp)
 
-![](./picture/LWS4.png)
+![](./picture/LWS4.webp)
 
-![](./picture/LWS5.png)
+![](./picture/LWS5.webp)
 
-![](./picture/LWS6.png)
+![](./picture/LWS6.webp)
 
  - 社团成员不仅通过游戏学习了建筑知识、历史文化、生电编程，更通过参与项目提升了团队合作与项目管理能力。
 
-![佛前悟道](./picture/LWS7.png)
+![佛前悟道](./picture/LWS7.webp)
 
  ## 三、莱文市小知识
  - ``/spawn 莱文市 ``或者``/spawn 莱文市黎明区``均为莱文市传送点
@@ -53,7 +53,7 @@
 
 ## 五、加入莱文市审核群
 
-![审核QQ群：346059704](./picture/LWS8.jpg)
+![审核QQ群：346059704](./picture/LWS8.webp)
 
 > #### <span style="display:block;text-align:left;color:red;">***在莱文市中，世界就在你脚下***</span>   
 > #### <span style="display:block;text-align:left;color:red;">***无需踌躇，无需回首，无需唏嘘，目之所至，皆为前路***</span>  

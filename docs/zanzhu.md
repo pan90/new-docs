@@ -25,24 +25,24 @@
 - 只有首次发电需要进行绑定，后续发电请随意~
 ### 自助绑定方法
 1. 在游戏内使用指令/afdian code，然后会有提示信息：
-![](/picture/afd1.png)
+![](/picture/afd1.webp)
 然后点击复制验证码，再点击打开那个链接。  
 > [!TIP]注意
 >验证码的有效时间是10分钟内，请尽快地完成所有步骤。  
 > **出现任何问题或有任何疑问请通过QQ联系腐竹**
 2. 打开链接后点击“**发电**”
-![](/picture/afd2.png)
-![](/picture/afd3.png)
+![](/picture/afd2.webp)
+![](/picture/afd3.webp)
 3. 将复制的绑定验证码粘贴上去，然后进行支付~
-![](/picture/afd4.png)
+![](/picture/afd4.webp)
 4. 回到游戏使用指令`/afdian sync-latest`来手动进行爱发电同步（PS：服务器每隔一段时间也会进行自动同步）
-![](/picture/afd5.png)
+![](/picture/afd5.webp)
 首次绑定赠送**50电池**哦~
 ### 人工绑定方法
 如果你实在不会自助绑定，你也可以准备好一些东西联系腐竹人工添加绑定~  
 你需要打开这个链接：https://afdian.net/dashboard/dev  
 登录您的爱发电账号，然后将类似的截图发送给腐竹即可~
-![](/picture/afd6.png)
+![](/picture/afd6.webp)
 > [!TIP] 其它相关：  
 > 可以使用`/sponsorship latest`指令查看服务器的最近赞助  
 > 可以使用`/coins detail`指令来查看你的电池明细（验证是否自动赠送了电池）
@@ -50,12 +50,12 @@
 ## 微信
 ### 微信扫一扫
 **记得备注ID哦~**
-![](/picture/wx.png)
+![](/picture/wx.webp)
 
 ## 支付宝
 ### 支付宝扫一扫
 **记得备注ID哦~**
-![](/picture/zfb.png)
+![](/picture/zfb.webp)
 
 ## 赞助管理系统相关指令
 - `/sponsorship latest` 查看最近赞助记录，按时间顺序  
