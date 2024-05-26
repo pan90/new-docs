@@ -8,6 +8,12 @@ export default defineConfig({
   // cleanUrls: true,
   // metaChunk: true,
   lastUpdated: true,
+   markdown: {
+    image: {
+      // 开启图片懒加载
+      lazyLoading: true
+    },
+  },
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }]
@@ -23,9 +29,9 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '官网', link: 'https://paper-card.cn' },
-      { text: '帮助目录', link: '/introduction' }
-    ],
-
+      { text: '帮助目录📑', link: '/introduction'},
+      ],
+      
     sidebar:
       [
         {
@@ -143,10 +149,12 @@ export default defineConfig({
       next: '下一页'
     },
 
-    outline: {
-      label: '页面导航'
+    outline: { 
+      level: [2,3], // 显示2-4级标题
+      // level: 'deep', // 显示2-6级标题
+      label: '页面导航' // 文字显示
     },
-
+    
     lastUpdated: {
       text: '最后更新于',
       formatOptions: {

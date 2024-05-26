@@ -22,4 +22,25 @@ features:
   - title: 丰富插件
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
+<style>
+  :root {
+  /* 标题渐变色 */
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg,#FF69B4,	#FFF0F5, #87CEFF);
+   }
+</style>
 
+<style>
+  :root {
+  /* brand按钮 */
+  --vp-button-brand-border: #F6CEEC;
+  --vp-button-brand-text: #fff;
+  --vp-button-brand-bg: #FFC0CB;
+
+  --vp-button-brand-hover-border: #F6CEEC;
+  --vp-button-brand-hover-text: #fff;
+  --vp-button-brand-hover-bg: #FFC0CB;
+
+  --vp-button-brand-active-border: #F6CEEC;
+}
+</style>
