@@ -105,7 +105,6 @@ export default defineConfig({
             { text: '芋泥蛋糕', link: "/clubs/YNDG" },
             { text: '璃虹港', link: "/clubs/LHG" },
             { text: '约翰山庄', link: "/clubs/YHSZ" },
-            { text: '蘑菇岛', link: "/clubs/MGD" },
             { text: '小樱花山', link: "/clubs/XYHS" },
           ]
         },
@@ -118,6 +117,7 @@ export default defineConfig({
             { text: '漂流瓶', link: "/plugins/drift-bottle" },
             { text: '酿酒', link: "/plugins/brewing" },
             { text: '盔甲架自定义', link: "/plugins/armor-stand" },
+            { text: 'PaperPVP', link: "/plugins/paper-pvp" },
           ]
         },
 

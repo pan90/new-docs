@@ -4,19 +4,19 @@
 
 1. 把**编辑工具**握在主手里(默认是燧石)
 
-![](./picture/KJJ1.png)
+![](./picture/KJJ1.webp)
 
 2. **左/右键点击**(非装甲架)打开菜单
 
-![](./picture/KJJ2.png)
+![](./picture/KJJ2.webp)
 
 3. 选择**已标记的**菜单选项
 
-![](./picture/KJJ3.png)
+![](./picture/KJJ3.webp)
 
 4. **左/右点击盔甲站与工具在手应用这些选项**
 
-![](./picture/KJJ4.png)
+![](./picture/KJJ4.webp)
 
 ### 提示
 
