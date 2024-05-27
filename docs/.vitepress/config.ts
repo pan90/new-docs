@@ -65,8 +65,8 @@ export default defineConfig({
         },
 
         {
-          text: '玩家指令大全',
-          link: "/player-commands"
+          text: '指令大全',
+          link: "/commands"
         },
 
         {
