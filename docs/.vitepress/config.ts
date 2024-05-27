@@ -126,6 +126,11 @@ export default defineConfig({
           link: "/logs/"
         },
 
+        {
+          text: '公告',
+          link: "/announcements/"
+        },
+
 
         {
           text: '参与编写',
