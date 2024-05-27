@@ -1,7 +1,16 @@
 
 # 爱发电
+---
+<div class="linkcardafd">
+  <a href="https://afdian.net/a/Rabitui" target="_blank">
+    <p class="description">纸片PaperCard<br><span>爱发电主页，点击打开</span></p>
+    <div class="logo">
+        <img alt="Logo" width="70px" height="70px" src="/picture/afdtx.webp" />
+    </div>
+  </a>
+</div>
 
-[爱发电主页，点击打开](https://afdian.net/a/Rabitui)，你也可以在游戏内使用指令`/afdian`打开这个链接哦
+你也可以在游戏内使用指令`/afdian`打开这个链接哦
 
 > [!NOTE] 第一次发电
 > 如果你是**第一次**发电，那么你需要先看下面的说明进行**账号绑定**~
