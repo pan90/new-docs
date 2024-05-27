@@ -80,11 +80,6 @@ export default defineConfig({
         },
 
         {
-          text: '可能遇到的问题',
-          link: "/problem"
-        },
-
-        {
           text: '支持与赞助',
           link: "/zanzhu"
         },
@@ -95,10 +90,17 @@ export default defineConfig({
         },
 
         {
+          text: '常见问题',
+          collapsed: true,
+          link: "/faq/",
+          items: []
+        },
+
+        {
           text: '社团',
           collapsed: true,
+          link: "/clubs/",
           items: [
-            { text: '索引', link: "/clubs/" },
             { text: '动漫社', link: "/clubs/DMS" },
             { text: '莱文市', link: "/clubs/LWS" },
             { text: '苏维埃', link: "/clubs/SWA" },
@@ -112,8 +114,8 @@ export default defineConfig({
         {
           text: '插件',
           collapsed: true,
+          link: "/plugins/",
           items: [
-            { text: '索引', link: "/plugins/" },
             { text: '漂流瓶', link: "/plugins/drift-bottle" },
             { text: '酿酒', link: "/plugins/brewing" },
             { text: '盔甲架自定义', link: "/plugins/armor-stand" },
@@ -123,12 +125,16 @@ export default defineConfig({
 
         {
           text: '更新日志',
-          link: "/logs/"
+          collapsed: true,
+          link: "/logs/",
+          items: []
         },
 
         {
           text: '公告',
-          link: "/announcements/"
+          collapsed: true,
+          link: "/announcements/",
+          items: []
         },
 
         {

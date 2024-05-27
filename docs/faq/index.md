@@ -8,7 +8,7 @@
 ![](/picture/dns4.webp)
 
 ## 怎么绑定QQ
-进入服务器时可在聊天窗口点击**点击绑定QQ**或输入指令`/qq-bing code`
+进入服务器时可在聊天窗口点击**点击绑定QQ**或输入指令`/qq-bind code`
 ![](/picture/qqbind.webp)
 然后将获取到的验证码发送到QQ群
 ![](/picture/qqbind2.webp)
