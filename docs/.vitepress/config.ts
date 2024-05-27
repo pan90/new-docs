@@ -131,6 +131,11 @@ export default defineConfig({
           link: "/announcements/"
         },
 
+        {
+          text: '未来计划',
+          link: "/future/"
+        },
+
 
         {
           text: '参与编写',
