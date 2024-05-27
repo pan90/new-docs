@@ -66,7 +66,7 @@ export default defineConfig({
 
         {
           text: '封禁、解封与举报',
-          link: '/ban'
+          link: '/ban/'
         },
 
         {
