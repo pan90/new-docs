@@ -8,13 +8,13 @@
 - 公益服，无需氪金！
 - 资源共享：非共产服，属于聚落服
 
-当前服务器版本为<Badge type="tip" text="1.20.4" />，版本会紧跟MC版本更新。
-兼容的客户端版本为：<Badge type="warning" text="1.20.X" />
+当前服务器版本为<Badge type="warning" text="1.20.4" />，版本会紧跟MC版本更新。
+兼容的客户端版本为：<Badge type="danger" text="1.20.X" />
 
 - 服务器永久地址：`mc.paper-card.cn`&nbsp;&nbsp;`mc.纸片.com`
 - 备用地址：`mc5.paper-card.cn`&nbsp;&nbsp;`7950x.paper-card.cn:25585`
 - 玩家交流QQ群[💬](https://qm.qq.com/q/h4bhuLRoDC)：`860768366`
-- 管理QQ群（有事可加，完事退群）[💬](https://qm.qq.com/q/300XJBnrXO)：`822315449`
+- 管理QQ群（有事可加，完事退群）[💬](https://qm.qq.com/q/ttqwcWmVYA)：`822315449`
 
 > [!NOTE] 我们的目标
 > 作为一个多人游戏的平台，致力于**增强玩家之间互动**。让玩家享受**原版的生存体验**，**从撸树开始**完成一个个成就，建造一个个建筑，直到玩腻退服退游。
