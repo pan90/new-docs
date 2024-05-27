@@ -120,6 +120,7 @@ export default defineConfig({
             { text: '璃虹港', link: "/clubs/LHG" },
             { text: '约翰山庄', link: "/clubs/YHSZ" },
             { text: '小樱花山', link: "/clubs/XYHS" },
+            { text: '南植重工基地', link: "/clubs/NZZGJD"},
           ]
         },
 
