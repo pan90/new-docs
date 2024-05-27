@@ -8,7 +8,7 @@ export default defineConfig({
   // cleanUrls: true,
   // metaChunk: true,
   lastUpdated: true,
-   markdown: {
+  markdown: {
     image: {
       // 开启图片懒加载
       lazyLoading: true
@@ -29,9 +29,9 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '官网', link: 'https://paper-card.cn' },
-      { text: '帮助目录📑', link: '/introduction'},
-      ],
-      
+      { text: '帮助目录📑', link: '/introduction' },
+    ],
+
     sidebar:
       [
         {
@@ -51,11 +51,11 @@ export default defineConfig({
 
         {
           text: '玩家守则',
-          link: "/player-rules"
+          link: "/rules"
         },
 
         {
-          text: '如何加入到服务器',
+          text: '加入服务器',
           link: "/join"
         },
 
@@ -98,7 +98,7 @@ export default defineConfig({
           text: '社团',
           collapsed: true,
           items: [
-            { text: '索引', link: "/clubs/"},
+            { text: '索引', link: "/clubs/" },
             { text: '动漫社', link: "/clubs/DMS" },
             { text: '莱文市', link: "/clubs/LWS" },
             { text: '苏维埃', link: "/clubs/SWA" },
@@ -149,12 +149,12 @@ export default defineConfig({
       next: '下一页'
     },
 
-    outline: { 
-      level: [2,3], // 显示2-4级标题
+    outline: {
+      level: [2, 3], // 显示2-4级标题
       // level: 'deep', // 显示2-6级标题
       label: '页面导航' // 文字显示
     },
-    
+
     lastUpdated: {
       text: '最后更新于',
       formatOptions: {
