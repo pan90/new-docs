@@ -36,7 +36,7 @@
 ![](/picture/srfxf.webp)
 
 ## 怎么改中文名
-中文名需使用[纸片正版登录](/papercardlogin)  
+中文名需使用[纸片正版登录](./papercardlogin)
 配置好后在纸片官网的[个人空间](https://paper-card.cn/space)页面在下图处修改
 ![](/picture/zhname.webp)
 

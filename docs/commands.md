@@ -124,8 +124,8 @@
 
 ## 锁箱子
 
-TODO
 <!-- [锁箱子](chestprotect.md) -->
+[锁箱子](https://www.bilibili.com/read/cv26572194/)
 
 ## 村民优化
 
@@ -150,6 +150,8 @@ TODO
 - 指令冷却时间限制：你不可以在短时间内对同一个村民反复的进行优化与恢复！
 
 ## 杂项
+
+- `/pvp [on/off]`&nbsp;&nbsp;开启/关闭PVP模式，[详细说明](./plugins/paper-pvp)
 
 - `/hat`&nbsp;&nbsp;将手上的物品放在自己头上，可以用来戴帽子，空手使用指令就是摘下帽子
 

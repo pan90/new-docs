@@ -55,13 +55,8 @@ export default defineConfig({
         },
 
         {
-          text: '加入服务器',
-          link: "/join"
-        },
-
-        {
-          text: '如何使用纸片正版登录',
-          link: "/papercardlogin"
+          text: '快速加入',
+          link: "/faq/join"
         },
 
         {
@@ -79,10 +74,6 @@ export default defineConfig({
           link: "/mods"
         },
 
-        {
-          text: '支持与赞助',
-          link: "/zanzhu"
-        },
 
         {
           text: '电池指南',
@@ -95,6 +86,27 @@ export default defineConfig({
           link: "/faq/",
           items: []
         },
+
+        {
+          text: '支持与赞助',
+          link: "/support-us/",
+          collapsed: true,
+          items: [
+            {
+              text: '微信或支付宝',
+              link: "/support-us/"
+            },
+            {
+              text: '爱发电',
+              link: "/support-us/afdian"
+            },
+            {
+              text: "网站开发维护",
+              link: "/support-us/docs"
+            }
+          ]
+        },
+
 
         {
           text: '社团',
@@ -141,13 +153,6 @@ export default defineConfig({
           text: '未来计划',
           link: "/future/"
         },
-
-
-        {
-          text: '参与编写',
-          link: "/contribute"
-        }
-
 
       ],
 
