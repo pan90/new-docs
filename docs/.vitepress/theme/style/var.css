@@ -15,15 +15,25 @@
 
 /*标题颜色*/
 
-/*
+
 h1 {
-  color: 	#ffa246;
+  color: #FF6A6A;
 }
+
 h2 {
-  color: 	#ffa246;
+  color: #ffa246;
 }
+
 h3 {
-  color: 	#FFB5C5;
+  color: #87CEFA;
 }
-*/
-  
+
+/* markdown加粗 */
+strong {
+  color: #8470FF;
+}
+
+/* 文档中的链接 */
+.vp-doc a {
+  text-decoration: underline !important;
+}
