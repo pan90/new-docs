@@ -28,14 +28,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
+      { text: '介绍', link: '/introduction' },
       { text: '官网', link: 'https://paper-card.cn' },
-      { text: '帮助目录📑', link: '/introduction' },
     ],
 
     sidebar:
       [
         {
-          text: '玩法与介绍',
+          text: '🕹️介绍',
           link: "/introduction"
         },
 
@@ -60,7 +60,7 @@ export default defineConfig({
         },
 
         {
-          text: '指令大全',
+          text: '🧭指令大全',
           link: "/commands"
         },
 
@@ -76,7 +76,7 @@ export default defineConfig({
 
 
         {
-          text: '电池指南',
+          text: '🔋电池',
           link: "/coins"
         },
 
@@ -120,7 +120,7 @@ export default defineConfig({
             { text: '璃虹港', link: "/clubs/LHG" },
             { text: '约翰山庄', link: "/clubs/YHSZ" },
             { text: '小樱花山', link: "/clubs/XYHS" },
-            { text: '南植重工基地', link: "/clubs/NZZGJD"},
+            { text: '南植重工基地', link: "/clubs/NZZGJD" },
           ]
         },
 
