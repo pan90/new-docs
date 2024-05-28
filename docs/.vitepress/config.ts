@@ -163,7 +163,7 @@ export default defineConfig({
 
     editLink: {
       pattern: 'https://github.com/pan90/new-docs/tree/main/:path',
-      text: '在 GitHub 上编辑此页面'
+      text: '编辑'
     },
 
     docFooter: {
