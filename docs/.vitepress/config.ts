@@ -131,10 +131,11 @@ export default defineConfig({
           collapsed: true,
           link: "/plugins/",
           items: [
-            { text: '漂流瓶', link: "/plugins/drift-bottle" },
-            { text: '酿酒', link: "/plugins/brewing" },
-            { text: '盔甲架自定义', link: "/plugins/armor-stand" },
-            { text: 'PaperPVP', link: "/plugins/paper-pvp" },
+            { text: '🌊漂流瓶', link: "/plugins/drift-bottle" },
+            { text: '🍻酿酒', link: "/plugins/brewing" },
+            { text: '🛠️盔甲架自定义', link: "/plugins/armor-stand" },
+            { text: '🤺PaperPVP', link: "/plugins/paper-pvp" },
+            { text: '👨‍🌾村民优化', link: "/plugins/vo" },
           ]
         },
 
