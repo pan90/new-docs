@@ -6,6 +6,9 @@ hero:
   name: "纸片PaperCard"
   text: "一个有趣的Minecraft生存服"
   tagline: ~
+  image: 
+    src: /Paper.png
+    alt: 背景图
   actions:
     - theme: brand
       text: 马上加入
