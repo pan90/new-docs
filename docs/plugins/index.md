@@ -5,3 +5,4 @@
 ## [酿酒](./brewing)
 ## [盔甲架自定义](./armor-stand)
 ## [PaperPVP](./paper-pvp)
+## [村民优化](./vo)
