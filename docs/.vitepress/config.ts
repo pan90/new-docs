@@ -119,7 +119,7 @@ export default defineConfig({
             { text: '芋泥蛋糕', link: "/clubs/YNDG" },
             { text: '璃虹港', link: "/clubs/LHG" },
             { text: '约翰山庄', link: "/clubs/YHSZ" },
-            { text: '小樱花山', link: "/clubs/XYHS" },
+            { text: '青鸾共和社', link: "/clubs/QLGHS" },
             { text: '南植重工基地', link: "/clubs/NZZGJD" },
           ]
         },
