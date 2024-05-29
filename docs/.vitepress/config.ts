@@ -29,6 +29,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '介绍', link: '/introduction' },
+      { text: '公告', link: '/announcements/' },
       { text: '官网', link: 'https://paper-card.cn' },
     ],
 
