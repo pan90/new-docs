@@ -42,3 +42,7 @@ GitHub仓库地址为：[https://github.com/pan90/docs](https://github.com/pan90
 主要工作就是迁移旧文档到新仓库，并移除过时的信息。
 
 - 感谢您的PaperCard的赞助与支持，参与文档编写将记为特殊赞助，展示在服务器官网赞助页面上
+
+## 参考链接
+
+1. [Emoji大全 | Emoji表情符号词典 📓 | EmojiAll中文官方网站](https://www.emojiall.com/zh-hans)
