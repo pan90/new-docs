@@ -86,6 +86,12 @@ export default defineConfig({
         },
 
         {
+          text: '自定义称号',
+          link: "/faq/designation"
+        },
+
+
+        {
           text: '常见问题',
           collapsed: true,
           link: "/faq/",
