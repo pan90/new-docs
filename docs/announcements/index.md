@@ -8,3 +8,5 @@
 ## [主群清人策略](./kick-strategy)
 
 ## [自由PVP乱斗一般规则](./pvp)
+
+## [物理机装机清单](./parts-list)
