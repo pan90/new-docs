@@ -79,11 +79,6 @@ export default defineConfig({
           link: '/ban/'
         },
 
-        {
-          text: '可用与不可用模组',
-          link: "/mods"
-        },
-
 
         {
           text: '🔋电池',
