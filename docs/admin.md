@@ -12,6 +12,7 @@
 | Kaymumilan | 首席管理 | op |
 | 刚睡醒头昏 | 首席宣传 | op |
 | 小桃 | 管理员 | op |
+| 有依人 | 管理员 | admin |
 | 雨散啦 | 管理员 | admin |
 | Clearlove_KK | 管理员 | admin |
 | Cheng__shan | 管理员 | admin |
