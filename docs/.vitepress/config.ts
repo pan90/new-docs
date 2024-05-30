@@ -29,7 +29,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '介绍', link: '/introduction' },
-      { text: '规则', link: '/rules' },
+      { text: '规则', link: '/rules/' },
       { text: '公告', link: '/announcements/' },
       { text: '官网', link: 'https://paper-card.cn' },
     ],
@@ -47,13 +47,21 @@ export default defineConfig({
         },
 
         {
-          text: '玩家筛选',
-          link: "/filter-players"
+          text: '规则',
+          link: "/rules/",
+          collapsed: true,
+          items: [
+            { text: "玩家守则", link: "/rules/" },
+            { text: `矿透`, link: "/rules/xray" },
+            { text: `开挂`, link: "/rules/cheat" },
+            { text: `偷东西`, link: "/rules/steal" },
+            { text: `模组`, link: "/rules/mods" },
+          ]
         },
 
         {
-          text: '玩家守则',
-          link: "/rules"
+          text: '玩家筛选',
+          link: "/filter-players"
         },
 
         {
