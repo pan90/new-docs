@@ -87,7 +87,7 @@ export default defineConfig({
 
         {
           text: '自定义称号',
-          link: "/faq/designation"
+          link: "/faq/title"
         },
 
 
