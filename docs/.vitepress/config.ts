@@ -167,6 +167,11 @@ export default defineConfig({
           link: "/future/"
         },
 
+        {
+          text: '腐竹笔记',
+          link: "/notes/"
+        },
+
       ],
 
     socialLinks: [
