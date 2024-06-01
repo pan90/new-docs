@@ -80,10 +80,6 @@ export default defineConfig({
         },
 
 
-        {
-          text: '🔋电池',
-          link: "/coins"
-        },
 
         {
           text: '自定义称号',
@@ -96,6 +92,16 @@ export default defineConfig({
           collapsed: true,
           link: "/faq/",
           items: []
+        },
+
+      
+        {
+          text: '🔋电池',
+          link: "/coins/",
+          collapsed: true,
+          items: [
+            { text: '月卡', link: "/coins/card" },
+          ]
         },
 
         {
