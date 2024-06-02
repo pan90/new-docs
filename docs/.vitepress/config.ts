@@ -94,13 +94,14 @@ export default defineConfig({
           items: []
         },
 
-      
+
         {
           text: '🔋电池',
           link: "/coins/",
           collapsed: true,
           items: [
             { text: '月卡', link: "/coins/card" },
+            { text: '指令', link: "/coins/command" },
           ]
         },
 
