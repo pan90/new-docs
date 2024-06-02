@@ -28,10 +28,12 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
+      { text: '官网', link: 'https://paper-card.cn' },
       { text: '介绍', link: '/introduction' },
       { text: '规则', link: '/rules/' },
       { text: '公告', link: '/announcements/' },
-      { text: '官网', link: 'https://paper-card.cn' },
+      { text: '更新日志', link: '/logs/' },
+      
     ],
 
     sidebar:
