@@ -1,4 +1,13 @@
 # 问题汇总📄
+---
+<div class="linkcardth">
+  <a href="https://qm.qq.com/q/LCMrtSlViG" target="_blank">
+    <p class="description">更多小问题<br><span>请点击此处，联系我</span></p>
+    <div class="logo">
+        <img alt="Logo" width="70px" height="70px" src="/picture/gsxth.webp" />
+    </div>
+  </a>
+</div>
 
 ## 无法连接到服务器
 可尝试更换DNS，按下图进行更换
