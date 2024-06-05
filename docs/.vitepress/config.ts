@@ -58,6 +58,7 @@ export default defineConfig({
             { text: `开挂`, link: "/rules/cheat" },
             { text: `偷东西`, link: "/rules/steal" },
             { text: `模组`, link: "/rules/mods" },
+            { text: `邀请`, link: "/plugins/invitation" },
           ]
         },
 
