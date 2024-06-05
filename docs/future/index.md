@@ -14,3 +14,11 @@
 ## [新的公告机制](./gong-gao)
 
 ## [优先白名单机制、游戏外排队机制](./queue)
+
+## [电池上限](./coins-limit)
+
+## 更多在GITHUB上
+
+问题反馈、BUG反馈、更新建议：
+
+[https://github.com/pan90/docs/issues](https://github.com/pan90/docs/issues)
