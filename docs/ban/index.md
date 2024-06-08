@@ -19,6 +19,7 @@
 - `/report list`&nbsp;&nbsp; 查看未处理的举报记录，可点击翻页，点击处理举报（管理员）
 - `/report list-accepted`&nbsp;&nbsp; 查看成功的举报，可点击翻页
 - `/report list-rejected`&nbsp;&nbsp; 查看失败的举报，可点击翻页
+
 ## 举报相关（管理员）
 - `/report accept <举报ID> <备注>`&nbsp;&nbsp; 标记为举报成功，不推荐使用，因为report list中可以一键处理
 - `/report reject <举报ID> <备注>`&nbsp;&nbsp; 标记为举报失败，不推荐使用，因为report list中可以一键处理
