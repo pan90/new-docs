@@ -1,1 +1,0 @@
-![](./picture/QLGHS.webp)
