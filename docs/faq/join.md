@@ -34,11 +34,6 @@
 - 当这样显示时，代表你可以正常进入服务器啦🎉
 ![](/picture/login4.webp)
 
-## 5. 绑定QQ
-- 在进入服务器时可在聊天窗口点击**点击绑定QQ**或输入指令`/qq-bing code`
-![](/picture/qqbind.webp)
-- 然后将获取到的验证码发送到QQ群
-![](/picture/qqbind2.webp)
 
 ## 6. 大功告成
 **可以开始你的冒险啦~**
